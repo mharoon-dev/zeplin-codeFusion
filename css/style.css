@@ -57,7 +57,7 @@
 ============================================== */
 
 /* Oswald + Open sans Compilied Font Families - Customize link: https://fonts.google.com/?selection.family=Open+Sans:300,400,400i,600i,700|Oswald:300,400,500; */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600i,700|Oswald:300,400,500");
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600i,700|Oswald:300,400,500"); */
 
 /* ==============================================
 	THEME RESET
@@ -80,7 +80,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 24px;
   letter-spacing: 0px;
   color: #9d9d9d;
