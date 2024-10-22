@@ -5960,11 +5960,40 @@ body:not(.lg-from-hash)
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(./img/cardsBg.jpg);
-  background-size: cover;
-  background-position: center;
   transform: rotateY(0deg);
   color: #fff;
+}
+
+.card1 {
+  background-image: url(./img/cardsBg1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #000;
+  opacity: 0.8;
+}
+
+.card2 {
+  background-image: url(./img/cardsBg2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #000;
+  opacity: 0.8;
+}
+
+.card3 {
+  background-image: url(./img/cardsBg3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #000;
+  opacity: 0.8;
+}
+
+.card4 {
+  background-image: url(./img/cardsBg4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #000;
+  opacity: 0.8;
 }
 
 .flip-card-back {
