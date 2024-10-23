@@ -595,7 +595,7 @@ section,
   background-position: center center;
   background-repeat: no-repeat;
 }
-.bg-parallax.img-scale:not(..bg-parallax-mobiled) {
+.bg-parallax.img-scale:not(.bg-parallax-mobiled) {
   top: -10%;
   height: 120%;
 }
